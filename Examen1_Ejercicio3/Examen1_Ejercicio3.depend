@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495400935 source:c:\users\usuario\documents\codeblocks\examen1_ejercicio3\main.cpp
+	<iostream>
+	"MensajeCorreo.h"
+	"Correo.h"
+
+1495400922 source:c:\users\usuario\documents\codeblocks\examen1_ejercicio3\src\mensajecorreo.cpp
+	"MensajeCorreo.h"
+	<iostream>
+	<cstring>
+
+1495337193 c:\users\usuario\documents\codeblocks\examen1_ejercicio3\include\mensajecorreo.h
+
+1495424370 source:c:\users\usuario\documents\codeblocks\examen1_ejercicio3\src\correo.cpp
+	"Correo.h"
+	<cstring>
+	<iostream>
+
+1495424370 c:\users\usuario\documents\codeblocks\examen1_ejercicio3\include\correo.h
+	"MensajeCorreo.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495387064 source:c:\users\usuario\documents\codeblocks\examen1_ejercicio1\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdlib.h>
+	<cstring>
+
